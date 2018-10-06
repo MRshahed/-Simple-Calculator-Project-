@@ -1,0 +1,44 @@
+﻿Build started 5/12/2018 11:17:27 PM.
+     1>Project "C:\Users\SHAHED HOSSEN\Documents\Visual Studio 2010\Projects\SiimpleCalculator\SiimpleCalculator\SiimpleCalculator.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "C:\Users\SHAHED HOSSEN\Documents\Visual Studio 2010\Projects\SiimpleCalculator\Release\".
+       InitializeBuildStatus:
+         Creating "Release\SiimpleCalculator.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\SiimpleCalculator.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt stdafx.cpp /clr:nostdlib 
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\SiimpleCalculator.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt AssemblyInfo.cpp SiimpleCalculator.cpp /clr:nostdlib 
+         AssemblyInfo.cpp
+         SiimpleCalculator.cpp
+     1>c:\users\shahed hossen\documents\visual studio 2010\projects\siimplecalculator\siimplecalculator\Form1.h(631): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\shahed hossen\documents\visual studio 2010\projects\siimplecalculator\siimplecalculator\Form1.h(639): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\shahed hossen\documents\visual studio 2010\projects\siimplecalculator\siimplecalculator\Form1.h(645): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\shahed hossen\documents\visual studio 2010\projects\siimplecalculator\siimplecalculator\Form1.h(651): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\shahed hossen\documents\visual studio 2010\projects\siimplecalculator\siimplecalculator\Form1.h(657): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+         Generating Code...
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /clr:pure /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /TP /analyze- /errorReport:prompt "C:\Users\SHAHED HOSSEN\AppData\Local\Temp\.NETFramework,Version=v4.0.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+       CoreResGen:
+         "C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\NETFX 4.0 Tools\resgen.exe" /useSourcePath /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /compile Form1.resX,Release\SiimpleCalculator.Form1.resources
+         Processing resource file "Form1.resX" into "Release\SiimpleCalculator.Form1.resources".
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Release\app.res" app.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\SHAHED HOSSEN\Documents\Visual Studio 2010\Projects\SiimpleCalculator\Release\SiimpleCalculator.exe" /INCREMENTAL:NO /NOLOGO /ASSEMBLYRESOURCE:Release\SiimpleCalculator.Form1.resources /MANIFEST /ManifestFile:"Release\SiimpleCalculator.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\SHAHED HOSSEN\Documents\Visual Studio 2010\Projects\SiimpleCalculator\Release\SiimpleCalculator.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Release\app.res
+         Release\AssemblyInfo.obj
+         Release\SiimpleCalculator.obj
+         Release\stdafx.obj
+         "Release\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         SiimpleCalculator.vcxproj -> C:\Users\SHAHED HOSSEN\Documents\Visual Studio 2010\Projects\SiimpleCalculator\Release\SiimpleCalculator.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\SHAHED HOSSEN\Documents\Visual Studio 2010\Projects\SiimpleCalculator\Release\SiimpleCalculator.exe;#1" /manifest Release\SiimpleCalculator.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\SiimpleCalculator.unsuccessfulbuild".
+         Touching "Release\SiimpleCalculator.lastbuildstate".
+     1>Done Building Project "C:\Users\SHAHED HOSSEN\Documents\Visual Studio 2010\Projects\SiimpleCalculator\SiimpleCalculator\SiimpleCalculator.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.23
